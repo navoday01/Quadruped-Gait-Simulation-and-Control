@@ -4,4 +4,3 @@
  :--:|:--:|:--:
   *Walking* |*Trotting* | *Galloping*
   
-## Tracking Controller using LQR
