@@ -13,6 +13,9 @@ The first move is to establish the limbs of the Walking Robot and for this, we a
 <p align = 'center'>
 <img src = "assets/Quadruped_robot_3D_model.png" alt="Quadruped Robot 3D Model" width=50% height=50%>
 </p>  
+<p align = 'center'>
+<em>Quadruped Robot 3D Model</em>
+</p>  
 
 ### Step 2: Iterate process for remaining 3 legs of Quadruped 
 
