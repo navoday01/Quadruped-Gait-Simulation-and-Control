@@ -10,6 +10,10 @@
 
 The first move is to establish the limbs of the Walking Robot and for this, we are considering a 2R revolute planer manipulator to form a single leg. Each leg is connected with the main body i.e. Torso by a revolute joint. The angle between Torso and 1st link is called Hip Joint while the angle between the legs is called Knee Joint.
 
+![Alt text](assets/Quadruped_robot_3D_model.png)
+ :--:
+*Quadruped Robot 3D Model*
+
 ### Step 2: Iterate process for remaining 3 legs of Quadruped 
 
 With the exact same dimensions and specifications, we multiplied and provided the robot with three more legs. After successfully establishing all the legs, a Torso is used to connect all of them in between and make it imply a rigid body. Each leg has its coordinate system located at the center of the first revolute joint. The center of the same joint is located at the thigh of the robot. We have considered the positive X-axis of the robot in the forward direction.
